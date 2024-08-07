@@ -10,8 +10,5 @@ git add .github
 #git commit -m "fix: pandas2.0 `df.drop` bug"
 git commit -m "init"
 
-#git remote add origin git@github.com:yuanjie-ai/llm4gpt.git
-#git branch -M master
-
 git pull
 git push -u origin master -f
